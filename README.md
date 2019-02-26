@@ -1,3 +1,3 @@
 # rsschool-2019Q1-codeacademy
-YARASLAU MESHCHARAKOU
+Yaraslau Meshcharakou
 HTML CSS Basics: https://www.codecademy.com/users/flogger23/achievements
